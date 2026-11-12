@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Next Pages</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+
+
+    <header class="header">
+
+        <div class="logo">Next<span>Pages.</span></div>
+
+    </header>
+
+    <main>
+
+        <section class="hero">
+
+            <p class="inspiration">A little inspiration for your next read</p>
+
+            <h1>Find your next <span>favorite</span> book.</h1>
+
+            <p class="intro-text">
+                Discover new stories, explore different authors
+                and find books you'll love.
+            </p>
+
+        </section>
+
+    
+        <section class="search-section">
+
+            <form id="search-form">
+
+                <div class="search-controls">
+
+                    <div class="select-wrapper">
+
+                        <label for="search-type">Search by</label>
+
+                        <select id="search-type">
+
+                            <option value="title">Book title</option>
+                            <option value="author">Author</option>
+                            <option value="subject">Subject</option>
+
+                        </select>
+
+                    </div>
+
+                    <div class="input-wrapper">
+
+                        <label for="search-input">What are you looking for?</label>
+
+                        <input
+                            type="text"
+                            id="search-input"
+                            placeholder="Enter a book or author..."
+                            required
+                        >
+
+                    </div>
+
+                    <button type="submit" id="search-button">
+                        Search books
+                    </button>
+
+                </div>
+
+            </form>
+
+        </section>
+
+        <p id="search-message" class="search-message" aria-live="polite">
+            Start exploring and find your next favorite book.
+        </p>
+
+        <section class="results-section">
+
+            <div class="results-heading">
+
+                <h2>Explore books</h2>
+
+                <p id="results-count"></p>
+
+            </div>
+
+            <div id="book-results" class="book-grid">
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer class="footer">
+
+        <p>Next Pages © 2026</p>
+
+    </footer>
+
+</body>
+</html>
