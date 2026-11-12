@@ -26,8 +26,8 @@ Esimerkki kuvan lisäämisestä:
 
 ## Verkkolinkit
 
-- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://yourusername.github.io/your-repository/)
-- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/yourusername/your-repository)
+- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://laaksokati.github.io/projekti_2_API/)
+- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/laaksokati/projekti_2_API.git)
 - **Projektin videoesittely:** 
 
 ## Tietoja sovelluksesta
@@ -91,7 +91,7 @@ Pohdi työtäsi ja oppimisprosessiasi.
 - Mikä jäi epäselväksi tai mistä haluaisin oppia lisää?
 - Oma arvio projektista: **xx/10 pistettä**
 
-Onnistuin sovelluksen visuaalisessa ilmeessä sekä toteuttamaan toimivan hakutoiminnon. Haastavinta projektissa oli JavaScriptin toiminnallisuuden toteuttaminen ja API-rajapinnan hyödyntäminen. Jos aikaa olisi enemmän, kehittäisin sovellukseen lisää ominaisuuksia. Esimerkiksi käyttäjä voisi tallentaa suosikkikirjojaan omaan suosikkilistaan ja tarkastella niitä myöhemmin. Opin hakemaan tietoa ulkoisesta API-rajapinnasta Fetch API avulla. Antaisin projektille 7/10.
+Onnistuin sovelluksen visuaalisessa ilmeessä sekä toteuttamaan toimivan hakutoiminnon. Haastavinta projektissa oli JavaScriptin toiminnallisuuden toteuttaminen ja API-rajapinnan hyödyntäminen. Jos aikaa olisi enemmän, kehittäisin sovellukseen lisää ominaisuuksia. Esimerkiksi käyttäjä voisi tallentaa suosikkikirjojaan omaan suosikkilistaan ja tarkastella niitä myöhemmin. Opin hakemaan tietoa ulkoisesta API-rajapinnasta Fetch API avulla. Antaisin projektille 6/10.
 
 ## Lähteet ja kiitokset
 
